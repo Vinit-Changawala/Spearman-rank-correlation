@@ -1,1 +1,1 @@
-# Spearman-s-rank-correlation
+# Spearman's-rank-correlation
